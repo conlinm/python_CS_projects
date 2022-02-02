@@ -1,2 +1,2 @@
 # python_CS_projects
-algorithms, games, basic principles demonstrated in python
+algorithms, games, basic CS principles, in python
